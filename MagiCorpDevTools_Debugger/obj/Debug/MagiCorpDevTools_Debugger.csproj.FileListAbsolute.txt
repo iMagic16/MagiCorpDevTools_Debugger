@@ -1,0 +1,5 @@
+D:\Dropbox\Projects\GitHub\PingSerial\MagiCorpDevTools_Debugger\MagiCorpDevTools_Debugger\bin\Debug\MagiCorpDevTools_Debugger.dll
+D:\Dropbox\Projects\GitHub\PingSerial\MagiCorpDevTools_Debugger\MagiCorpDevTools_Debugger\bin\Debug\MagiCorpDevTools_Debugger.pdb
+D:\Dropbox\Projects\GitHub\PingSerial\MagiCorpDevTools_Debugger\MagiCorpDevTools_Debugger\obj\Debug\MagiCorpDevTools_Debugger.csprojResolveAssemblyReference.cache
+D:\Dropbox\Projects\GitHub\PingSerial\MagiCorpDevTools_Debugger\MagiCorpDevTools_Debugger\obj\Debug\MagiCorpDevTools_Debugger.dll
+D:\Dropbox\Projects\GitHub\PingSerial\MagiCorpDevTools_Debugger\MagiCorpDevTools_Debugger\obj\Debug\MagiCorpDevTools_Debugger.pdb
